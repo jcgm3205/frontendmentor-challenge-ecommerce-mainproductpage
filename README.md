@@ -33,7 +33,7 @@ In the challenge, is requested to create a webpage with the following characteri
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [fementor-challenge-ecommerce-mainpage](https://fementor-challenge-ecommerce-mainpage.netlify.app/)
 
 ## My process
 
@@ -59,7 +59,7 @@ Maybe the large number of resulting files is the cost of creating "cleaner" file
 
 - The use of the "useContext" React hook. Maybe this one could be even an "obvious" one. Maybe not. But it's a nice incorporation, as well as the use of a function working as a small library, called by the "useContext" hook. All of this because I tried to follow a "separation of concerns". At some components, that's not true, of course, but it was (indeed) one of the main concepts behind the challenge solution.
 
-- Related with the previous one, in the small library, I want to mention the use of the function "getScreenSize" ([she](https://www.youtube.com/) deserves all the credits of this function). The function works as an alternative to the use of "media queries" and other CSS-related code to create the different layouts requested and as a "excuse" to use a conditional-programming approach. 
+- Related with the previous one, in the small library, I want to mention the use of the function "getScreenSize" ([she](https://www.youtube.com/watch?v=6zjc7uvWTGk) deserves all the credits of this function). The function works as an alternative to the use of "media queries" and other CSS-related code to create the different layouts requested and as a "excuse" to use a conditional-programming approach. 
 
 - Besides, I decided to use various instances of the "useReducer" hook, creating a sort of "slices" (Redux users will understand the reference), where each "slice" works as a piece of state for different tasks. In the "Useful resources" section, I added a excellent article where the "useReducer" hook is very well explained. Totally recommended.
 
@@ -68,10 +68,10 @@ You can check, for example, the "LightBoxGalleryComponents.js" file where, the "
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This is the article mentioned at the previous section, where the "useReducer" hook is greatly explained. It's sad that this website has very few articles related to React.
+- [How to use React useReducer hook like a pro](https://devtrium.com/posts/how-to-use-react-usereducer-hook) - This is the article mentioned at the previous section, where the "useReducer" hook is greatly explained. It's sad that this website has very few articles related to React.
 - ['HSL to Hex' Converter](https://htmlcolors.com/hsl-to-hex) - The converter used to "translate" colors in "HSL" format into hexadecimal. 
 - ['Hex color to CSS filter' Converter](https://isotropic.co/tool/hex-color-to-css-filter/) - Here, you can create a "filter" rule to manipulate "hover" pseudoclasses of ".svg" images.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@jcgm3205](https://www.frontendmentor.io/profile/jcgm3205)
