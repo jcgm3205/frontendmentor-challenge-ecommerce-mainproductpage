@@ -29,7 +29,7 @@ In the challenge, is requested to create a webpage with the following characteri
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://user-images.githubusercontent.com/91711789/194773158-fec7b590-bbc5-4e30-a76d-98ef6d494852.png)
 
 ### Links
 
